@@ -1,3 +1,3 @@
 # mandaricsladjana.github.io
 
-[![Portfolio:](https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-blue?style=for-the-badge)]([https://yourname.notion.site/portfolio](https://sheer-toy-588.notion.site/ebd//37b108b3e7c581869fe4fe5c404bb95c))
+[![Portfolio:](https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-blue?style=for-the-badge)](](https://app.notion.com/p/Sladjana-Mandaric-Portfolio-37b108b3e7c580b8a1bee6d0b916c171?source=copy_link))
